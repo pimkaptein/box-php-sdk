@@ -1,14 +1,14 @@
 {
-    "name": "adammbalogh/box-sdk",
-    "description": "Unofficial Box.com Php Sdk",
+    "name": "pimkaptein/box-sdk",
+    "description": "Box content / view sdk with added functions",
     "keywords": ["box", "box.com", "sdk"],
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Adam Balogh",
-            "email": "baloghbh@gmail.com",
-            "homepage": "http://code-chronicle.blogspot.com",
+            "name": "Pim Kaptein",
+            "email": "p.kaptein@itmundi.nl",
+            "homepage": "http://www.itmundi.nl",
             "role": "Developer"
         }
     ],
